@@ -1,0 +1,6 @@
+site_name: Project Omnissiah Documentation
+nav:
+#    - Home: index.md
+    - Overview: index.md
+    - Scope: scopes.md
+    - Architecture: architecture.md
