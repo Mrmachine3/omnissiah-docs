@@ -26,7 +26,7 @@ Platform Requirements
 .. toctree::
    :maxdepth: 1
 
-      Platform Requirements <requirements>
+      Platform Requirements <specs>
 
 Installation
 ============

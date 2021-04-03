@@ -75,7 +75,9 @@ pygments_style = None
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+#html_theme = 'sphinx_typlog_theme'
+html_theme = 'dask_sphinx_theme'
  
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.
