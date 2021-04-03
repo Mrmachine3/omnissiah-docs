@@ -1,0 +1,8 @@
+alabaster==0.7.12
+ansible==2.9.9
+Jinja2==2.11.3
+PyYAML==5.4.1
+six==1.15.0
+Sphinx==1.8.5
+sphinx-theme==1.0
+sphinxcontrib-websupport==1.1.2
